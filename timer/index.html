@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Precision Digital Stopwatch</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link href='http://fonts.googleapis.com/css?family=Cutive+Mono|Fira+Mono|Share+Tech+Mono|Ubuntu+Mono' rel='stylesheet' type='text/css'>
+</head>
+<body>
+    <div id="display">
+        <canvas id="canvas" onclick="cycleFont()"></canvas>
+    </div>
+    <button id="tick" style="width: 50%" onclick="startStop()">Start</button><button id="reset" style="width: 50%" onclick="reset()">Reset</button>
+    <script src="/lib/objectPolyfill.js"></script>
+    <script src="/lib/storagePolyfill.js"></script>
+    <script src="/projects/engine/canvas.js"></script>
+    <script src="/projects/engine/clock.js"></script>
+    <script src="timer.js"></script>
+</body>
+</html>
