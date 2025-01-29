@@ -1,0 +1,24 @@
+project:
+  type: website
+  resources:
+    - CNAME
+
+
+website:
+  title: "Bo Yang Tang"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme:
+      - slate
+      - brand
+    css: styles.css
+
+
+
