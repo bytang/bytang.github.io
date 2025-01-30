@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    -webkit-transition: background-color 429ms linear;
+    -moz-transition: background-color 429ms linear;
+    -o-transition: background-color 429ms linear;
+    -ms-transition: background-color 429ms linear;
+    transition: background-color 429ms linear;
+}
+
+p {
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 20vw;
+    text-align: center;
+    display: table;
+    margin: 0 auto 0 auto;
+    padding: 0;
+    -webkit-transition: color 429ms linear;
+    -moz-transition: color 429ms linear;
+    -o-transition: color 429ms linear;
+    -ms-transition: color 429ms linear;
+    transition: color 429ms linear;
+    -webkit-transition: font-size 857ms ease;
+    -moz-transition: font-size 857ms ease;
+    -o-transition: font-size 857ms ease;
+    -ms-transition: font-size 857ms ease;
+    transition: font-size 857ms ease;
+}

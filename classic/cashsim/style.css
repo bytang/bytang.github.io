@@ -1,0 +1,17 @@
+body {
+    background-color: #FFFDD8;
+    background-image: url('img/background.png');
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 1900px;
+}
+
+#screen {
+    width: 780px;
+    height: 580px;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ffffff;
+    padding: 10px;
+}

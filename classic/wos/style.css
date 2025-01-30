@@ -1,0 +1,21 @@
+html {
+    font-family: 'Roboto', serif;
+}
+p {
+    font-family: 'Roboto', serif;
+    margin: 0;
+    padding: 0;
+}
+div {
+    margin: 0;
+    padding: 0;
+}
+#story {
+    overflow: auto;
+}
+#writer {
+    margin-top: 10px;
+}
+textarea {
+    font-family: 'Roboto', serif;
+}
