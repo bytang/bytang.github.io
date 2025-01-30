@@ -1,12 +1,8 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-01-26"
+title: "Hello World"
+author: "Bo Yang Tang"
+date: "2025-01-30"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
-
-![](thumbnail.jpg)
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Starting a public blog to motivate myself to formulate my thoughts. There are lots of times where an idea seems great but falls apart once you try to put it on paper. Let's find out which of my ideas can pass this benchmark.

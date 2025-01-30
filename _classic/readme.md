@@ -1,1 +1,0 @@
-This is my old personal website. I will eventually make a new one and move this to an archive section.
