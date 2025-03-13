@@ -1,0 +1,14 @@
+---
+title: "Introducing \"If only it were that simple\""
+description: "a series of posts centered around the theme of dreaming up idealistic solutions to complex problems"
+author: "Bo Yang Tang"
+date: "2025-02-18"
+draft: true
+categories:
+  - news
+  - simple
+---
+
+I want to start my blog by writing about my ideas. One of the great things about having thoughts is the personal journey of discovery and growth. We become aware of questions and conjure up answers. Sometimes those answers are sufficient and we move on. Other times we find out that an answer is insufficient, and the question is more messy than we initially thought. This journey of realization, contemplation, iteration, ultimately ends with a better picture of the problems rather than a neat conclusion. The problems we see around us are unsolved not for a lack of trying, even if it may seem that way. 
+
+This iterative process of having ideas and developing them against the real world is rewarding and consuming. The process is also largely ephemeral, taking place entirely in thoughts and not recorded. These are my motivations for writing about my ideas. I want to share the fruits of my effort and also crystallize my ideas while they are still in my memory. The first piece in this series will hopefully come out later this month. It will be about the concept of democracy and voting.
